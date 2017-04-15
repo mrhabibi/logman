@@ -1,1 +1,1 @@
-include ':sample', ':library'
+include ':logman-sample', ':logman-library'
