@@ -1,1 +1,3 @@
-include ':logman-sample', ':logman-library'
+include ':sample', ':logman'
+
+rootProject.name = "logman-project"
